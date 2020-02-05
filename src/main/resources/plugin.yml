@@ -1,0 +1,4 @@
+name: ShriekingShutdown
+version: ${project.version}
+main: net.snofox.bungeecord.shriekingshutdown.ShriekingShutdown
+author: SnoFox
